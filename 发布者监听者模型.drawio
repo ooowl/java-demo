@@ -1,0 +1,40 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="第 1 页" id="ROeh4y4I0DrPFIAwPQ1K">
+    <mxGraphModel dx="654" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JdlAmpJ0zC13tKG4Zac1-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JdlAmpJ0zC13tKG4Zac1-1" target="JdlAmpJ0zC13tKG4Zac1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JdlAmpJ0zC13tKG4Zac1-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;发布者&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeColor=#4CAF50;fillColor=#FFF9C4;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JdlAmpJ0zC13tKG4Zac1-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JdlAmpJ0zC13tKG4Zac1-2" target="JdlAmpJ0zC13tKG4Zac1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JdlAmpJ0zC13tKG4Zac1-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeColor=#4CAF50;fillColor=#FFF9C4;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-5" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JdlAmpJ0zC13tKG4Zac1-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;监听器执行操作&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="90" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JdlAmpJ0zC13tKG4Zac1-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;监听器1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;strokeColor=#6c8ebf;fillColor=#BBDEFB;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="20" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JdlAmpJ0zC13tKG4Zac1-9" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;监听器2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;strokeColor=#6c8ebf;fillColor=#BBDEFB;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JdlAmpJ0zC13tKG4Zac1-10" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;监听器3&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;strokeColor=#6c8ebf;fillColor=#BBDEFB;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JdlAmpJ0zC13tKG4Zac1-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;自定义事件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JdlAmpJ0zC13tKG4Zac1-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;自定义事件监听器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="250" width="180" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
