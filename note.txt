@@ -1,0 +1,14 @@
+
+
+
+
+netty 模型结构
+
+server
+    initializer
+        server handler
+
+client
+    initializer
+        client handler
+
