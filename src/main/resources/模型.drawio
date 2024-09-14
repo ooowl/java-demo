@@ -1,0 +1,67 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="第 1 页" id="vGKxUP4icWprzMV2lZWj">
+    <mxGraphModel dx="1194" dy="565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-8" value="SumTask:&lt;br&gt;List&amp;lt;String&amp;gt;&lt;br&gt;call:&lt;br&gt;将每一行字符串，转换成数字，相加" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="349" y="75" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-14" value="工作线程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="496" y="473" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-15" value="工作内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="62" y="380" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="332" y="304" width="394" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gHOH5CKIwhYx6xqdiXCZ-16">
+          <mxGeometry width="394" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gHOH5CKIwhYx6xqdiXCZ-16">
+          <mxGeometry x="28.5" y="46" width="61.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gHOH5CKIwhYx6xqdiXCZ-16">
+          <mxGeometry x="122" y="46" width="61.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-12" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gHOH5CKIwhYx6xqdiXCZ-16">
+          <mxGeometry x="208" y="46" width="61.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gHOH5CKIwhYx6xqdiXCZ-16">
+          <mxGeometry x="294" y="46" width="61.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-17" value="工作内容：&lt;br&gt;一共有一千行，将每一行读取出来，存入内存，累计计数，最后返回结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-133" y="492" width="402" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="73" width="130" height="273" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gHOH5CKIwhYx6xqdiXCZ-18">
+          <mxGeometry width="130" height="273" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1775EE;strokeWidth=2;" vertex="1" parent="gHOH5CKIwhYx6xqdiXCZ-18">
+          <mxGeometry x="15" y="19" width="107" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1775EE;strokeWidth=2;" vertex="1" parent="gHOH5CKIwhYx6xqdiXCZ-18">
+          <mxGeometry x="15" y="54" width="107" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1775EE;strokeWidth=2;" vertex="1" parent="gHOH5CKIwhYx6xqdiXCZ-18">
+          <mxGeometry x="15" y="91" width="107" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1775EE;strokeWidth=2;" vertex="1" parent="gHOH5CKIwhYx6xqdiXCZ-18">
+          <mxGeometry x="15" y="134" width="107" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-6" value=".&lt;br&gt;.&lt;br&gt;." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gHOH5CKIwhYx6xqdiXCZ-18">
+          <mxGeometry x="54.5" y="167" width="21" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1775EE;strokeWidth=2;" vertex="1" parent="gHOH5CKIwhYx6xqdiXCZ-18">
+          <mxGeometry x="11.5" y="240" width="107" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gHOH5CKIwhYx6xqdiXCZ-19" value="带来了非常多的线程工作内容切换的开销，以及内存开销，虽然看起来使用了多线程，但是实际比单线程还慢" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-269" y="577" width="594" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
