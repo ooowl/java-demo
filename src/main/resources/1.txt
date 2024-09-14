@@ -1,0 +1,3 @@
+
+
+访问 http://localhost:8080/greet?name=Wang 获得依赖注入效果
