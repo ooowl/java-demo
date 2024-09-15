@@ -1,0 +1,22 @@
+
+
+
+
+
+# model
+
+    request
+
+    HelloController: hello
+
+        view: hello.html
+
+
+
+
+
+
+
+
+
+
