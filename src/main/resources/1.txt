@@ -1,1 +1,12 @@
-访问 http://localhost:8080/greet?name=Wang1
+request: http://localhost:8080/greet?name=Wang1
+
+
+
+
+# model
+aop:around
+controller: hello
+aop:around
+
+
+
