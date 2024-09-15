@@ -2,6 +2,11 @@
 
 1、创建用户成功：http://localhost:8080/create?name=John&email=john@example.com
 2、创建失败回滚：http://localhost:8080/createWithError?name=Jane&email=jane1@example.com
+3、查看记录：http://localhost:8080/h2-console
+    JDBC URL: jdbc:h2:mem:testdb
+    User Name: sa
+    Password: （为空）
+    select * from users;
 
 # model
 
@@ -12,6 +17,5 @@ service: create, createUserWithException
 h2: users 表
 
 依赖：jpa、h2、web，jpa 3 以上，用 jakarta 包
-
 
 
