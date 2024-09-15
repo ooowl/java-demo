@@ -9,7 +9,7 @@ public class GreetingController {
 
     // http://localhost:8080/greet?name=Wang
     @GetMapping("/greet")
-    public String greet(@RequestParam(value = "name", defaultValue = "World") String name) throws InterruptedException {
+    public String greet(@RequestParam(value = "name", defaultValue = "World") String name) {
         return "Hello " + name;
     }
 
