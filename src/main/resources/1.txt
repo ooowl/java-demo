@@ -1,0 +1,17 @@
+
+
+1、创建用户成功：http://localhost:8080/create?name=John&email=john@example.com
+2、创建失败回滚：http://localhost:8080/createWithError?name=Jane&email=jane1@example.com
+
+# model
+
+controller: create, createWithError
+
+service: create, createUserWithException
+
+h2: users 表
+
+依赖：jpa、h2、web，jpa 3 以上，用 jakarta 包
+
+
+
