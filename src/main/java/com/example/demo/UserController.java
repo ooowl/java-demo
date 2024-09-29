@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+// http://localhost:8080/users
 @RestController
 @RequestMapping("/users")
 public class UserController {
