@@ -1,0 +1,46 @@
+
+
+
+
+# 1 Please introduce yourself
+    OK, thank you. Hello, Good morning. I am very happy to have this interview opportunity.
+    Let me introduce myself.
+
+    My name is Miles wang. Chinese name ÍõÏþÅô, I have five years of work experience, mainly as a
+    backend development engineer, using the Java language.
+
+    This time I have the opportunity to work in the field of cybersecurity, I should seize this opportunity.
+    I have just been working at AIP for two month.
+
+
+# 2 what do you think of this job in the field of cybersecurity?
+    This job aims to provide safe and efficient software products.
+    Including checking existing software structures, identifying and preventing the release of unsafe code.
+
+
+# 3 What are the common encryption algorithms?
+    Symmetric encryption: the same key is used for both encryption and decryption.
+    Asymmetric encryption: encryption and decryption using a key pair.
+    Hash algorithm: irreversible, commonly used for password storage and data verification. md5 sha-256 and sha 512
+
+
+# 4 what are the common cybersecurity vulnerabilities?
+    An application usually consists of these parts: client, server, database
+    If we divided according to its attack location, if it occurs on the client, there is a cross-site-scripting vulnerability, information disclosure, insecure direct object reference.
+    If it occurs on the server, there is a csrf vulnerability and sql injection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
