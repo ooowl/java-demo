@@ -1,3 +1,16 @@
+
+要准备的东西：
+    1、英文自我介绍
+    2、过往项目
+    3、Java基础知识
+    4、前端知识
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+【自我介绍】
+    good afternoon, I am very glad to have this interview opportunity. thank you for offering the opportunity.
+    I have four to five years of work experience, mainly as a backed development engineer, using the Java programming language.
+    I think my main characteristic is that I have a good abstract ability, which makes it easy for me to understand and handle complex scenarios, and to communicate with other person.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 【AIP项目】
     I work in AMG integration for 3 months.
     This is a data feed project, which transfer data from upstream to downstream between two system. In the form of SFTP GCP email shared drive etc.
@@ -22,3 +35,21 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 【Java 知识】
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
