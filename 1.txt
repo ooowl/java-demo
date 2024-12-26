@@ -1,0 +1,24 @@
+【AIP项目】
+    I work in AMG integration for 3 months.
+    This is a data feed project, which transfer data from upstream to downstream between two system. In the form of SFTP GCP email shared drive etc.
+【跨境电商项目】
+    This is a cross-border eCommerce ERP system. It has non-separated front end and backend, the backend use java language,
+    and use template engine velocity to generate front end page.
+    My main responsibilities in this project is to build a new theme style UI for the system.
+【手游平台项目】
+    This is a mobile-game application platform project. It uses microservice architecture.
+    The platform collects a lot of mobile games, the user purchase and play them.
+    What I do in this project is to develop platform activities to stimulate players to buy games.
+    lottery-activity: players draw a lottery and win different type awards.
+    dragon boat race: players tap the screen to drive the boat move, and get rewards based on the ranking
+【最难问题】
+    award over-issue problem: in concurrent scenario, the deduction of rewards may exceed the prescribed quantity
+    use optimistic locking and version number mechanism to avoid the problem.
+    performance problem: the page very slow and takes more than ten seconds to load. I solved the problem by using the binary method.
+【如何与其它人协作】
+    By confirming the interface.
+    The word interface is the abstract concepts in programming. I apply them to collaboration: clarifying the outcomes, what and when should other
+    people give to me, and what should I give to others.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+【Java 知识】
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
